@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:TextBox ID="ID" runat="server" Text="HEllo"></asp:TextBox>
         </div>
     </form>
 </body>
